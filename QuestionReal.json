@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "judul": "Structure Test",
+    "penjelasan": "A structure test evaluates your grasp of grammar and sentence construction. You might encounter sentences with blanks that you need to fill with the correct word or phrase, or you might be asked to identify errors in a given sentence. These tests assess your ability to use proper grammar and syntax, which are crucial for clear and effective communication.",
+    "waktu": "8",
+    "pertanyaanList": [
+      {
+        "pertanyaan": "Captain Henry,_____________ crept slowly through the underbrush.",
+        "pilgan": [
+          "being remote from the enemy,",
+          "attempting to not encounter the enemy,",
+          "trying to avoid the enemy,",
+          "not involving himself in the enemy,"
+        ],
+        "benar": "trying to avoid the enemy,"
+      },
+      {
+        "pertanyaan": "Each bowler ………..in each frame, unless a strike is bowled.",
+        "pilgan": [
+          "rolling the ball twice",
+          "the ball is rolled twice",
+          "rolls the ball twice",
+          "the ball rolls twice"
+        ],
+        "benar": "rolls the ball twice"
+      },
+      {
+        "pertanyaan": "Newspaper publishers in the united states have estimated ___________reads a newspaper every day.",
+        "pilgan": [
+          "nearly 80 percent of the adult population who",
+          "it is nearly 80 percent of the adult population",
+          "that nearly 80 percent of the adult population who",
+          "that nearly 80 percent of the adult population"
+        ],
+        "benar": "that nearly 80 percent of the adult population"
+      },
+      {
+        "pertanyaan": "Modern skyscrapers have a steel skeleton of beams and columns ___a three-dimensional grid.?",
+        "pilgan": [
+          "forms",
+          "from which forming",
+          "and forming",
+          "that forms"
+        ],
+        "benar": "that forms"
+      },
+      {
+        "pertanyaan": "The musical comedy Oklahoma did much to expand the potential of the musical stage, and it encouraged others to attempt……",
+        "pilgan": [
+          "original themes",
+          "to original themes",
+          "that were original themes",
+          "how original themes"
+        ],
+        "benar": "original themes"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "judul": "Reading Test",
+    "penjelasan": "A reading test measures your ability to understand and interpret written texts. You’ll typically read passages and then answer questions about them. The questions can range from identifying the main idea to understanding specific details, making inferences, or recognizing the author’s tone. Reading tests assess how well you can extract meaning from text—an essential skill for academic success and day-to-day life.",
+    "waktu": "15",
+    "pertanyaanList": [
+      {
+        "pertanyaan": "The railroad was not the first institution to impose regularity on society, or to draw attention to the importance of precise timekeeping. For as long as merchants have set out their wares at daybreak and communal festivities have been celebrated, people have been in rough agreement with their neighbors as to the time of day. The value of this tradition is today more apparent than ever. Were it not for public acceptance of a single yardstick of time, social life would be unbearably chaotic: the massive daily transfers of goods, services, and information would proceed in fits and starts; the very fabric of modern society would begin to unravel.\n What is the main idea of the passage?",
+        "pilgan": [
+          "In modern society we must make more time for our neighbors.",
+          "The traditions of society are timeless.",
+          "An accepted way of measuring time is essential for the smooth functioning of society.",
+          "Society judges people by the times at which they conduct certain activities."
+        ],
+        "benar": "An accepted way of measuring time is essential for the smooth functioning of society."
+      },
+      {
+        "pertanyaan": "The railroad was not the first institution to impose regularity on society, or to draw attention to the importance of precise timekeeping. For as long as merchants have set out their wares at daybreak and communal festivities have been celebrated, people have been in rough agreement with their neighbors as to the time of day. The value of this tradition is today more apparent than ever. Were it not for public acceptance of a single yardstick of time, social life would be unbearably chaotic: the massive daily transfers of goods, services, and information would proceed in fits and starts; the very fabric of modern society would begin to unravel.\n According to the second paragraph, the phrase “this tradition” refers to",
+        "pilgan": [
+          "the practice of starting the business day at dawn",
+          "friendly relations between neighbors",
+          "the railroad’s reliance on time schedules",
+          "people’s agreement on the measurement of time"
+        ],
+        "benar": "people’s agreement on the measurement of time"
+      },
+      {
+        "pertanyaan": "Engaging in outdoor exercise offers numerous benefits for both physical and mental well-being. One advantage is the exposure to natural sunlight, which helps the body produce vitamin D, necessary for bone health. Additionally, being outdoors provides a change of scenery and fresh air, creating a more enjoyable workout experience.\n Regular outdoor exercise also offers various physical benefits. Activities such as walking, jogging, or cycling in natural environments can help improve cardiovascular health, strengthen muscles, and enhance overall fitness levels. The uneven terrain and varying resistance in outdoor settings engage different muscle groups, leading to a more well-rounded workout.\n Moreover, outdoor exercise has positive effects on mental health. Research suggests that being in nature and green spaces can reduce stress, anxiety, and depression. The calming and rejuvenating effects of nature contribute to improved mood and increased feelings of happiness. Outdoor exercise also provides a break from technology and screens, allowing individuals to disconnect and recharge mentally.\n Incorporating outdoor exercise into one’s routine can have long-lasting benefits for physical and mental well-being. It offers a holistic approach to fitness, combining the advantages of nature with the positive effects of physical activity. \nWhat is one advantage of engaging in outdoor exercise?",
+        "pilgan": [
+          "Increased screen time",
+          "Exposure to natural sunlight",
+          "Limited access to fresh air",
+          "Decreased physical fitness"
+        ],
+        "benar": "Exposure to natural sunlight",
+        "audioSource": "https://example.com/audio/hukum_gravitasi.mp3"
+      },
+      {
+        "pertanyaan": "Engaging in outdoor exercise offers numerous benefits for both physical and mental well-being. One advantage is the exposure to natural sunlight, which helps the body produce vitamin D, necessary for bone health. Additionally, being outdoors provides a change of scenery and fresh air, creating a more enjoyable workout experience.\n Regular outdoor exercise also offers various physical benefits. Activities such as walking, jogging, or cycling in natural environments can help improve cardiovascular health, strengthen muscles, and enhance overall fitness levels. The uneven terrain and varying resistance in outdoor settings engage different muscle groups, leading to a more well-rounded workout.\n Moreover, outdoor exercise has positive effects on mental health. Research suggests that being in nature and green spaces can reduce stress, anxiety, and depression. The calming and rejuvenating effects of nature contribute to improved mood and increased feelings of happiness. Outdoor exercise also provides a break from technology and screens, allowing individuals to disconnect and recharge mentally.\n Incorporating outdoor exercise into one’s routine can have long-lasting benefits for physical and mental well-being. It offers a holistic approach to fitness, combining the advantages of nature with the positive effects of physical activity. \n Which of the following activities is NOT mentioned as a form of outdoor exercise in the passage?",
+        "pilgan": [
+          "Walking",
+          "Jogging",
+          "Cycling",
+          "Weightlifting"
+        ],
+        "benar": "Weightlifting"
+      },
+      {
+        "pertanyaan": "Engaging in outdoor exercise offers numerous benefits for both physical and mental well-being. One advantage is the exposure to natural sunlight, which helps the body produce vitamin D, necessary for bone health. Additionally, being outdoors provides a change of scenery and fresh air, creating a more enjoyable workout experience.\n Regular outdoor exercise also offers various physical benefits. Activities such as walking, jogging, or cycling in natural environments can help improve cardiovascular health, strengthen muscles, and enhance overall fitness levels. The uneven terrain and varying resistance in outdoor settings engage different muscle groups, leading to a more well-rounded workout.\n Moreover, outdoor exercise has positive effects on mental health. Research suggests that being in nature and green spaces can reduce stress, anxiety, and depression. The calming and rejuvenating effects of nature contribute to improved mood and increased feelings of happiness. Outdoor exercise also provides a break from technology and screens, allowing individuals to disconnect and recharge mentally.\n Incorporating outdoor exercise into one’s routine can have long-lasting benefits for physical and mental well-being. It offers a holistic approach to fitness, combining the advantages of nature with the positive effects of physical activity. \n How does outdoor exercise benefit cardiovascular health?",
+        "pilgan": [
+          "By increasing screen time",
+          "By strengthening muscles",
+          "By improving bone health",
+          "By reducing stress"
+        ],
+        "benar": "By strengthening muscles"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "judul": "Listening Test",
+    "penjelasan": "A listening test evaluates a person’s ability to understand spoken language. It’s not just about hearing the words, but also about comprehending the meaning, intonation, and context. Typically, you'll listen to dialogues, lectures, or conversations and then answer questions based on what you heard.",
+    "waktu": "9",
+    "pertanyaanList": [
+      {
+        "pertanyaan": "You will hear:\nMan : Do you mind if I turn the television off?\nWomen: Well, I’m in the middle of watching a program.\n(narrator) What does the woman imply?",
+        "pilgan": [
+          "The man should watch the program too.",
+          "The man should leave the television on.",
+          "The program will be over soon.",
+          "She’ll watch television later."
+        ],
+        "benar": "The man should leave the television on."
+      },
+      {
+        "pertanyaan": "On the recording, you will hear:\nNarrator : Listen to an instructor talk to his class about a television program.\nMan : I’d like to tell you about an interesting TV program that’ll be shown this coming Thursday. It’ll be on from 9 to 10 pm on Channel 4. It’s part of a series called “Mysteries of Human Biology.” The subject of the program is the human brain—how it functions and how it can malfunction. Topics that will be covered are dreams, memory, and depression. These topics are illustrated with outstanding computer animation that makes the explanations easy to follow. Make an effort to see this show. Since we’ve been studying the nervous system in class, I know you’ll find it very helpful. Now listen to a sample question.\n(narrator) What is the main purpose of the program?",
+        "pilgan": [
+          "To demonstrate the latest use of computer graphics.",
+          "To discuss the possibility of an economic depression.",
+          "To explain the workings of the brain.",
+          "To dramatize a famous mystery story."
+        ],
+        "benar": "To explain the workings of the brain."
+      },
+      {
+        "pertanyaan": "You will hear:\nMan : Shall I lock up the computer lab now before I go home?\nWoman: Don’t bother. I’m not leaving for a while. I can check it on my way out.\n(narrator) What will the woman probably do?",
+        "pilgan": [
+          "Lock the computer lab later.",
+          "Leave with the man.",
+          "Buy a new lock for the computer lab.",
+          "Show the man where the lab is."
+        ],
+        "benar": "Lock the computer lab later."
+      },
+      {
+        "pertanyaan": "On the recording, you will hear:\nProfessor\nNow there’s some AHP software out there that lets you do the math, but I’m not gonna get into that level of detail now. The important thing that I want to talk about is not the mathematics of it so much as the concept.\n(narrator)What does the professor mean when he says this:",
+        "pilgan": [
+          "He wants the students to use the AHP software for an assignment.",
+          "He does not think the AHP software is useful.",
+          "He wants to give only a general explanation of AHP.",
+          "He thinks the students can understand the mathematics without his help."
+        ],
+        "benar": "He wants to give only a general explanation of AHP."
+      },
+      {
+        "pertanyaan": "You will hear:\nWoman : I heard the math requirements for graduation are being changed.\nMan : Yes. And I may be short one course.\n(narrator) What does the man mean?",
+        "pilgan": [
+          "He isn’t sure what course to take.",
+          "The math course is too short.",
+          "He may not meet the graduation requirements.",
+          "The graduation date has been changed."
+        ],
+        "benar": "He may not meet the graduation requirements."
+      }
+    ]
+  }
+]
