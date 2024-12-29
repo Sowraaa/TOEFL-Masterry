@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D9F0FF"
+    android:padding="16dp"
+    tools:context=".AboutActivity">
+
+    <!-- Title Section -->
+    <TextView
+        android:id="@+id/title_about"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:background="@drawable/rounded_corner"
+        android:backgroundTint="@color/yellow"
+        android:gravity="center"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="32dp" />
+
+    <LinearLayout
+        android:id="@+id/about_section"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/rounded_corner"
+        android:backgroundTint="@color/blue"
+        android:padding="16dp"
+        app:layout_constraintTop_toBottomOf="@id/title_about"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="50dp">
+
+        <TextView
+            android:id="@+id/about_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This TOEFL Mastery application is an innovative educational tool developed by Insan Matin Hanif, a dedicated student of the Universitas Negeri Padang in the Informatics Engineering Education program. The application is designed to assist users in enhancing their English proficiency, particularly in preparation for the TOEFL (Test of English as a Foreign Language). With an intuitive interface and engaging quizzes, this app provides a comprehensive approach to mastering TOEFL concepts."
+            android:textSize="14sp"
+            android:lineSpacingExtra="4dp"
+            android:textColor="@color/white"
+            android:layout_marginBottom="16dp" />
+
+        <ImageView
+            android:id="@+id/about_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/hanif"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/developer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Insan Matin Hanif"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="220dp"
+        android:backgroundTint="@color/yellow"
+        android:text="Back"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/about_section" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
